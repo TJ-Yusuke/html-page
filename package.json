@@ -1,0 +1,16 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "My first landing page",
+  "main": "index.js",
+  "repository": "git@github.com:TJ-Yusuke/my-lanidng-page.git",
+  "author": "yusuke <jeeproud@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "sass": "^1.26.8",
+    "tailwindcss": "^1.4.6"
+  }
+}
